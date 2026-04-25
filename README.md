@@ -1,6 +1,4 @@
-Here's the revised version with grammar fixes and no use of "we":
 
----
 
 The project is based on computer vision. Bluetooth was used for wireless communication between the PC and the microcontroller installed on the car.
 
